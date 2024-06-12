@@ -1,2 +1,1 @@
-# Rubidium
-This is a branch used for uploading WIP code. Please ignore!
+This branch is for code commiting only! Please ignore!
