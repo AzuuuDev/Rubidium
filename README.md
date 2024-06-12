@@ -1,2 +1,2 @@
 # Rubidium
-Rubidium is a dynamic, modular and efficient data managing and displaying framework.
+This is a branch used for uploading WIP code. Please ignore!
