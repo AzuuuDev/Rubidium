@@ -1,6 +1,7 @@
 [package]
 name = "azuuudev/rubidium"
 version = "0.1.0"
+description = "Rubidium is a lightweight, modular and easy-to-use data management framework."
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 

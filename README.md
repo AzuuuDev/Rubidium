@@ -1,1 +1,1 @@
-This branch is for code commiting only! Please ignore!
+Github repo is working progress, this will be populated with the first release of Rubidium. 
